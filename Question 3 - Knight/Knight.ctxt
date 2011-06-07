@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Knight()
+comment1.params=
+comment1.target=void\ setBoard()
+comment2.params=x\ y\ moves
+comment2.target=boolean\ place(int,\ int,\ int)
+numComments=3

@@ -1,0 +1,30 @@
+1) How many pennies could you put on the Golden Gate Bridge without any of them overlapping? For this question, please write out each step in your thought process.
+
+Step 1: Find the surface area of the Golden Gate Bridge. 
+
+	To do this, I researched and found the length and width of the bridge and multiplied the two measurements to find the area.
+
+	Length of Bridge: 8,981 ft = 107,772 in
+	Width of Bridge:     90 ft = 1080 in
+	Area of Bridge:   Length x Width = 107,772 x 1080 = 116,393,760 square inches
+
+Step 2: Treate each penny as a "square". Find each penny's surface area.
+
+	Since the pennies will be placed next to each other, there will be an empty space in between each penny. Therefore, each penny can be treated as a square and its area can be found by finding the diameter of a penny (length and width of square).
+
+	Diameter of penny: 0.750 in = Length of "square" = Width of "square"
+	Area of penny:     Length x Width = 0.750 x 0.750 = 0.5625 square inches
+
+Step 3: Divide the area of the Bridge by the area of each penny.
+
+	Dividing the surface area of the bridge by that of each penny will reveal the number of pennies that could be placed on the bridge without any overlapping.
+
+	Number of Pennies: Area of Bridge / Area of each penny = 116,393,760 / 0.5625 = 206,922,240 pennies
+
+
+Therefore, you could put 206,922,240 pennies on the Golden Gate Bridge without having any of them overlapp. 
+
+
+Sources: gocalifornia.about.com/cs/sanfrancisco/a/ggbridge_3.htm
+
+	 http://www.usmint.gov/about_the_mint/?action=coin_specifications

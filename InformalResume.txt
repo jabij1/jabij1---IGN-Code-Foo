@@ -1,0 +1,30 @@
+	My name is Joseph (Joey) Abi-Hashim. I was born on August 3, 1992 in San Diego, California. 
+I lived there for 15 years, and left after my freshman year of high school. I moved with my family to Montreal, Quebec, Canada 
+where I completed another two years of high school. We then moved to Beirut, Lebanon where I finished my senior year and graduated. 
+Throughout my early schooling years and high school, I had above average grades, mainly A’s, while maintaining a social and 
+active lifestyle. I played football in my freshman year and soccer during my stay in Montreal. Ever since I was young, I have been
+passionate about computers, video games, and technology in general. I am always in the know when it comes to these specific topics 
+and they are simply what I adore. My friends and family know me as the “technophiliac”, and because of that I have become the go-to 
+guy for any and all technology related advice and help.
+	I am currently in my freshman year of university and studying Computer Science at the American University of Beirut (AUB). 
+I have only completed an introduction to programming course since most of my other courses have been general education, but so far 
+I love it. This course was focused on the basics of coding and was based around the Java programming language. While I am only strong
+in this one language, I have attempted to teach myself C++ and have had a fair bit of success doing so. Next semester I am set up to
+take the continuation course of my recently completed CS course, along with another based on discrete structures.  
+	When in San Diego, I worked at Panasonic and tested a networking peripheral that was used to wirelessly connect video game
+systems (or computers) to a router. Since I was well informed of the way the PlayStation 3 and Xbox 360 connected to wireless networks
+and knew how to get them up and running for online play, I was selected for such a job. During my stay in Montreal, I was fortunate 
+enough to receive the opportunity to test games for the Ubisoft studios based there. Here in Lebanon my opportunities have been 
+limited since technology is not exactly this country’s strongest suit. Therefore, as soon as I saw this opportunity to learn from 
+the folks at IGN while quenching my passion for technological knowledge, I jumped at it. 
+
+
+Contact Info: 
+
+	Name:			Joseph Abi-Hashim
+	Email: 			joey.abihashim@gmail.com
+	Address:		Dbayeh, Beirut, Lebanon
+	Phone Number: 		01196170572819	
+	
+
+	
